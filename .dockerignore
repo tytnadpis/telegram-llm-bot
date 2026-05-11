@@ -1,0 +1,32 @@
+# Файлы окружения (секретные ключи)
+.env
+.env.example
+
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Документация
+README.md
+docs/
+
+# Сам Docker
+Dockerfile
+.dockerignore
+docker-compose.yml
